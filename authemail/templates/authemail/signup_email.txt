@@ -1,0 +1,2 @@
+Verify your email address by clicking on this link:
+    http://66.55.65.94:8001/signupverify.html/?code={{ code }}
